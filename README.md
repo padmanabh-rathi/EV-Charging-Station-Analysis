@@ -42,6 +42,7 @@ Key **data validation and preprocessing** steps:
 
 ### 📊 **Dashboard Link**  
 [Power BI Report](https://app.powerbi.com/groups/me/reports/2df8ca23-ccda-44ce-bf88-e7c20369b9b2/56dcbb3684d7de188dac?experience=power-bi)  
+![Image Description](image.png)
 
 ## 🔍 Advanced Features  
 - 📊 **DAX Metrics** for real-time insights.  
